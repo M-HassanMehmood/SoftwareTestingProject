@@ -1,4 +1,4 @@
-# Complete Automation Testing of Sauce Labs Website
+# Complete Automation Testing of Sauce Labs Website Using Selenium Csharp
 
 This repository contains a comprehensive automation testing suite for the Sauce Labs website. The test suite is implemented using **Selenium WebDriver** with **C#**, ensuring full coverage of critical functionalities. Below is a detailed breakdown of the repository structure, test scenarios, and setup instructions.
 
